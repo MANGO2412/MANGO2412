@@ -4,7 +4,7 @@ I am MANGO2412, a programmer that I enjoy to take a cup of coffe ☕  while wiri
 so actually I am begginer in development web, if you are looking my proyects to know what I have been working, you are welcome in here, enjoy reading my code, all code is not building with IA jajajaj.
 also I appreciate any comments to help me continue to improve constantly.
 
-thank you for read this part, and  give me inbox if you have some doubts, and give some cup of coffe to talk abou anything. 🤗
+thank you for read this part, and  give me inbox if you have some doubts, and give some cup of coffe to talk about anything. 🤗
 
 <!--
 **MANGO2412/MANGO2412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
